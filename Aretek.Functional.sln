@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aretek.Functional", "src\Aretek.Functional\Aretek.Functional.csproj", "{507C96A9-FF71-4D97-82BD-798C634DC38A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aretek.Functional.Tests", "src\Aretek.Functional.Tests\Aretek.Functional.Tests.csproj", "{0CC204CB-3875-44E1-9700-061009C1E13A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{507C96A9-FF71-4D97-82BD-798C634DC38A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{507C96A9-FF71-4D97-82BD-798C634DC38A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{507C96A9-FF71-4D97-82BD-798C634DC38A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CC204CB-3875-44E1-9700-061009C1E13A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CC204CB-3875-44E1-9700-061009C1E13A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CC204CB-3875-44E1-9700-061009C1E13A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CC204CB-3875-44E1-9700-061009C1E13A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
