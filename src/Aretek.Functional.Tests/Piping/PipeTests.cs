@@ -1,6 +1,4 @@
-﻿using Aretek.Functional.Piping;
-
-namespace Aretek.Functional.Tests.Piping;
+﻿namespace Aretek.Functional.Tests.Piping;
 
 public class PipeTests
 {

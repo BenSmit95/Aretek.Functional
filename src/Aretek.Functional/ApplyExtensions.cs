@@ -1,4 +1,4 @@
-﻿namespace Aretek.Functional.PartialApplication;
+﻿namespace Aretek.Functional;
 
 public static class ApplyExtensions
 {

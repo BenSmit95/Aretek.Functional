@@ -1,6 +1,4 @@
-﻿using Aretek.Functional.Currying;
-
-namespace Aretek.Functional.Tests.Currying;
+﻿namespace Aretek.Functional.Tests.Currying;
 
 public class CurryTests
 {
