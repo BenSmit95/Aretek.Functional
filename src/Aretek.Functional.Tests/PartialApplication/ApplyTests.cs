@@ -1,6 +1,4 @@
-﻿using Aretek.Functional.PartialApplication;
-
-namespace Aretek.Functional.Tests.PartialApplication;
+﻿namespace Aretek.Functional.Tests.PartialApplication;
 
 public class ApplyTests
 {

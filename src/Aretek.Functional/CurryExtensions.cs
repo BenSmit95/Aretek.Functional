@@ -1,4 +1,4 @@
-﻿namespace Aretek.Functional.Currying;
+﻿namespace Aretek.Functional;
 
 public static class CurryExtensions
 {

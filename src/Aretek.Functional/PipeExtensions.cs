@@ -1,4 +1,4 @@
-﻿namespace Aretek.Functional.Piping;
+﻿namespace Aretek.Functional;
 
 public static class PipeExtensions
 {
